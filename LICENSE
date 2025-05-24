@@ -1,0 +1,139 @@
+============================================================
+LICENSE - MULTI-LANGUAGE VERSION (EN, VI, KO, ZH, RU)
+Author: Nguyen Thanh Duc (ngtduc693@gmail.com)
+Date: 2025
+============================================================
+
+⚠️ In case of any inconsistencies between translations,
+    the English version shall prevail as the legally binding text.
+
+============================================================
+🇬🇧 ENGLISH (OFFICIAL VERSION)
+============================================================
+
+Copyright (c) 2025 Nguyen Thanh Duc (ngtduc693@gmail.com)
+All rights reserved.
+
+This software is a proprietary project developed by Nguyen Thanh Duc. It is an Azure Function designed to process messages from Azure Service Bus, with the following capabilities:
+
+- Sending emails
+- Sending notifications
+- Logging communications to CosmosDB
+
+The system is built with dynamic configuration through Azure Key Vault and supports flexible template storage methods, including:
+
+- In-memory
+- File-based
+- Database-backed
+
+This software and its associated files are confidential and intended solely for authorized use.
+
+Unauthorized copying, distribution, modification, reverse engineering, or use of any part of this code in any form is strictly prohibited unless prior **explicit written permission** is granted by the author (Nguyen Thanh Duc).
+
+Any attempt to use, replicate, or incorporate this software (in part or in whole) into another product or service without permission constitutes a violation of intellectual property rights and may be subject to legal action.
+
+For licensing requests, contact: **ngtduc693@gmail.com**
+
+============================================================
+🇻🇳 TIẾNG VIỆT
+============================================================
+
+Bản quyền © 2025 Nguyen Thanh Duc (ngtduc693@gmail.com)
+Giữ toàn bộ quyền.
+
+Phần mềm này là dự án độc quyền do Nguyen Thanh Duc phát triển. Đây là một Azure Function xử lý tin nhắn từ Azure Service Bus với các chức năng:
+
+- Gửi email
+- Gửi thông báo
+- Ghi log tương tác vào CosmosDB
+
+Hệ thống sử dụng cấu hình động thông qua Azure Key Vault và hỗ trợ nhiều phương thức lưu trữ mẫu linh hoạt, bao gồm:
+
+- Bộ nhớ trong (In-memory)
+- File tĩnh
+- Cơ sở dữ liệu
+
+Mã nguồn và các tệp liên quan là tài sản bảo mật, chỉ dành cho người dùng được cấp phép.
+
+Mọi hành vi sao chép, phân phối, chỉnh sửa, dịch ngược, hoặc sử dụng bất kỳ phần nào của mã nguồn này dưới bất kỳ hình thức nào **đều bị nghiêm cấm** nếu không có sự **cho phép bằng văn bản** từ tác giả (Nguyen Thanh Duc).
+
+Mọi vi phạm có thể bị truy tố theo pháp luật.  
+Liên hệ để xin phép sử dụng: **ngtduc693@gmail.com**
+
+============================================================
+🇰🇷 한국어 (KOREAN)
+============================================================
+
+저작권 © 2025 Nguyen Thanh Duc (ngtduc693@gmail.com)
+모든 권리 보유.
+
+이 소프트웨어는 Nguyen Thanh Duc이 개발한 독점 프로젝트입니다. Azure Service Bus의 메시지를 처리하기 위한 Azure Function이며 다음 기능을 포함합니다:
+
+- 이메일 전송
+- 알림 전송
+- CosmosDB에 커뮤니케이션 로그 기록
+
+시스템은 Azure Key Vault를 통한 동적 구성과 다음과 같은 템플릿 저장 방식을 지원합니다:
+
+- 인메모리
+- 파일 기반
+- 데이터베이스 기반
+
+이 소프트웨어 및 관련 파일은 기밀이며 허가된 사용자만 사용할 수 있습니다.
+
+명시적인 서면 허가 없이 이 소프트웨어의 전체 또는 일부를 복사, 배포, 수정, 리버스 엔지니어링하거나 사용하는 것은 엄격히 금지됩니다.
+
+무단 사용은 지적 재산권 침해에 해당되며 법적 책임을 질 수 있습니다.  
+사용 허가 문의: **ngtduc693@gmail.com**
+
+============================================================
+🇨🇳 中文简体 (CHINESE - SIMPLIFIED)
+============================================================
+
+版权所有 © 2025 Nguyen Thanh Duc (ngtduc693@gmail.com)
+保留所有权利。
+
+本软件是由 Nguyen Thanh Duc 开发的专有项目，是一个用于处理 Azure Service Bus 消息的 Azure Function，具备以下功能：
+
+- 发送电子邮件  
+- 发送通知  
+- 将通信日志记录到 CosmosDB  
+
+该系统支持通过 Azure Key Vault 进行动态配置，并支持以下模板存储方式：
+
+- 内存存储  
+- 文件存储  
+- 数据库存储  
+
+本软件及其相关文件为机密内容，仅供授权用户使用。
+
+未获得作者 (Nguyen Thanh Duc) 的书面许可，不得复制、分发、修改、反向工程或以任何形式使用本代码的任何部分。
+
+如有任何违反行为，将被视为侵犯知识产权并可能受到法律追究。  
+如需获得使用许可，请联系：**ngtduc693@gmail.com**
+
+============================================================
+🇷🇺 РУССКИЙ (RUSSIAN)
+============================================================
+
+Авторское право © 2025 Nguyen Thanh Duc (ngtduc693@gmail.com)
+Все права защищены.
+
+Это программное обеспечение является собственным проектом, разработанным Nguyen Thanh Duc. Оно представляет собой функцию Azure, предназначенную для обработки сообщений из Azure Service Bus, с поддержкой:
+
+- Отправки электронных писем  
+- Отправки уведомлений  
+- Логирования коммуникаций в CosmosDB  
+
+Система использует динамическую конфигурацию через Azure Key Vault и поддерживает гибкое хранение шаблонов:
+
+- В памяти (In-memory)  
+- В файлах  
+- В базе данных  
+
+Это программное обеспечение и его сопутствующие файлы являются конфиденциальными и предназначены только для авторизованных пользователей.
+
+Без предварительного письменного разрешения автора (Nguyen Thanh Duc) запрещается копировать, распространять, модифицировать, проводить обратную разработку или использовать любой фрагмент данного кода.
+
+Нарушение может повлечь за собой юридическую ответственность.  
+Для получения разрешения свяжитесь: **ngtduc693@gmail.com**
